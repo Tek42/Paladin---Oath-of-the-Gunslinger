@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="SpellLists">
+    <node id="root">
+      <children>
+        <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Oath of the Gunslinger Level 1" />
+                    <attribute id="Spells" type="LSString" value="Shout_GunslingerFocus;Target_AimWithMyEye" /> 
+                    <attribute id="UUID" type="guid" value="221ad8c3-c1d7-44fa-8b5a-977c0f1c8491" />
+				</node>
+        <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Oath of the Gunslinger Level 2" />
+                    <attribute id="Spells" type="LSString" value="Target_Smite_Gunslinger_Unlock;Target_Smite_Gunslinger_Critical_Unlock" /> 
+                    <attribute id="UUID" type="guid" value="02636dd5-4a67-4ba1-b944-844091f75242" />
+				</node>
+        <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Oath of the Gunslinger Level 3" />
+                    <attribute id="Spells" type="LSString" value="Target_ShootWithMyMind;Shout_InspiringPalaver;Gunslinger_Protection_Unlock" /> 
+                    <attribute id="UUID" type="guid" value="02b0e949-3073-46aa-90e2-f3b17647baba" />
+				</node>
+        <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Oath of the Gunslinger Level 4" />
+                    <attribute id="Spells" type="LSString" value="Gunslinger_Countershot_Unlock" /> 
+                    <attribute id="UUID" type="guid" value="510f9abc-f0fc-4303-aa1f-a31ed83493b7" />
+				</node>
+        <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Oath of the Gunslinger Level 5" />
+                    <attribute id="Spells" type="LSString" value="Target_GS_ElementalWeapon;Target_KillWithMyHeart;Gunslinger_AOO_Unlock" />
+                    <attribute id="UUID" type="guid" value="f0daff9d-76fe-424d-8f2e-a13927e3b0f5" />
+                </node>
+        <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Oath of the Gunslinger Level 7" />
+                    <attribute id="Spells" type="LSString" value="Shout_AuraOfGunslinger" />
+                    <attribute id="UUID" type="guid" value="6a347235-63e3-4c6b-80f5-157d3f36e85f" />
+                </node>
+        <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Oath of the Gunslinger Level 9" />
+                    <attribute id="Spells" type="LSString" value="Gunslinger_Haste" /> 
+                    <attribute id="UUID" type="guid" value="fdf8575e-ef3f-46d3-b416-b9710a636dd4" />
+				</node>
+      </children>
+    </node>
+  </region>
+</save>

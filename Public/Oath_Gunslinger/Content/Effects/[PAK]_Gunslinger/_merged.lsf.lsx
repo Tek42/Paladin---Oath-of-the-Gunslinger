@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids" />
+	<region id="EffectBank">
+		<node id="EffectBank">
+			<children>
+				<node id="Resource">
+					<attribute id="BoundsMax" type="fvec3" value="2 2 3" />
+					<attribute id="BoundsMin" type="fvec3" value="-2 -2 -1" />
+					<attribute id="CullingDistance" type="float" value="0" />
+					<attribute id="Duration" type="float" value="1" />
+					<attribute id="EffectName" type="FixedString" value="VFX_Projectile_FireBolt_Smokey" />
+					<attribute id="ID" type="FixedString" value="5e247f83-2e43-451b-b791-8875bc361194" />
+					<attribute id="InterruptionMode" type="uint32" value="0" />
+					<attribute id="Looping" type="bool" value="True" />
+					<attribute id="Name" type="LSString" value="VFX_Projectile_FireBolt_Smokey" />
+					<attribute id="SourceFile" type="LSString" value="Public/Oath_Gunslinger/Assets/Effects/Effects_Banks/Projectile/VFX_Projectile_FireBolt_Smokey.lsfx" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540922158" />
+				</node>
+				<node id="Resource">
+					<attribute id="BoundsMax" type="fvec3" value="5 5 2.5" />
+					<attribute id="BoundsMin" type="fvec3" value="-5 -5 -7.5" />
+					<attribute id="Center" type="fvec3" value="0 0 -2.5" />
+					<attribute id="CullingDistance" type="float" value="0" />
+					<attribute id="Duration" type="float" value="6.55" />
+					<attribute id="EffectName" type="FixedString" value="VFX_Spells_Cast_Warlock_ProjectileBeam_EldritchBlast_Impact_Red_01" />
+					<attribute id="ID" type="FixedString" value="9df0e214-891e-4d64-ac9c-47e7c3180858" />
+					<attribute id="InterruptionMode" type="uint32" value="0" />
+					<attribute id="Looping" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="VFX_Spells_Cast_Warlock_ProjectileBeam_EldritchBlast_Red_Impact_Red_01" />
+					<attribute id="Radius" type="float" value="5" />
+					<attribute id="SourceFile" type="LSString" value="Public/Oath_Gunslinger/Assets/Effects/Effects_Banks/VFX_Gun_Impact_01.lsfx" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209006" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5874a588-b4ad-4a78-a823-8f5f739555be" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="335abbed-2ce2-b6a7-f622-0ca4866790df" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="a8a8b331-3f32-649e-e5eb-39f6a9b1e36d" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="f812d39c-7d2b-e112-931a-9265f910dbc0" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="cd75c266-9a84-3a5a-aa9d-28bcce60de77" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="97b12629-982f-c7b4-7807-1ca4cd35e0aa" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="91bcdda5-afef-22b0-894c-1c2ead59f2d5" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="f7fc084b-d098-0d9a-8033-1cb61c3beb37" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="4f5b525d-cdf7-1d04-2db5-d1f6e28c013b" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="4b32aed8-01c8-5ab2-adcc-2b5fad7712cf" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="573e1118-ba7f-2cbe-3d9f-2558692782af" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="3bf77f06-41e7-d235-fa82-ecf66493d074" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="fd4ab41a-443a-8334-de24-cdf4eae68011" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

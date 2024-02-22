@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="ClassDescriptions">
+    <node id="root">
+      <children>
+        <node id="ClassDescription">
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8" />
+                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Paladin_Gunslinger" />
+					          <attribute id="Description" type="TranslatedString" handle="hc1fc2294g9bb6g4c63g97f3g181acb310614" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha58a60d0ged08g4e65g9c67g226068ba91cd" version="1" />
+                    <attribute id="LearningStrategy" type="uint8" value="1" />
+                    <attribute id="MustPrepareSpells" type="bool" value="true" />
+                    <attribute id="Name" type="FixedString" value="CL_OATH_GUNSLINGER" />
+                    <attribute id="ParentGuid" type="guid" value="ff4d9497-023c-434a-bd14-82fc367e991c" />
+                    <attribute id="PrimaryAbility" type="uint8" value="2" />
+                    <attribute id="ProgressionTableUUID" type="guid" value="ce6ee763-1a34-48be-99cc-424813c07cf9" />
+                    <attribute id="SoundClassType" type="FixedString" value="Paladin" />
+                    <attribute id="SpellCastingAbility" type="uint8" value="6" />
+                    <attribute id="UUID" type="guid" value="239e3ddc-9d91-47f8-9a2c-02eaecd7c6a0" />
+					          <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="2de0a4fc-5831-4439-94d3-a7ff9b7aacf6" />
+                        </node>
+                    </children>
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

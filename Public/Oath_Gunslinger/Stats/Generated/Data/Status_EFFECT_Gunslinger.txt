@@ -1,0 +1,6 @@
+new entry "INTERRUPT_SMITE_GUNSLINGER_VFX"
+	type "StatusData"
+		data "StatusType" "EFFECT"
+	using "_PASSIVES"
+		data "SoundStart" "Spell_Impact_Damage_Radiant_DivineSmite_L1to3"
+		data "StatusEffect" "d163a8c8-dcb1-46f2-9c89-8ff129394c14"

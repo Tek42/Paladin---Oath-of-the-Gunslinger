@@ -1,0 +1,8 @@
+{
+    "RequiredVersion": 1,
+    "ModTable": "Oath_Gunslinger",
+    "FeatureFlags": [
+        "Osiris",
+        "Lua"
+    ]
+}

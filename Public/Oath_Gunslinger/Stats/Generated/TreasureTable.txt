@@ -1,0 +1,95 @@
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "I_GS_Colt_Navy",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GS_Colt_Navy_Clean",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GS_Colt_Navy_Clean_2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GS_Colt_Navy",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GS_Colt_Navy_Clean",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GS_Colt_Navy_Clean_2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_RepairBox_Gun_v2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_RepairBox_Gun_v2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_RepairBox_Gun_v3",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_RepairBox_Gun_v3",1,0,0,0,0,0,0,0
+
+new treasuretable "PLA_ZhentarimTrader_Common"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_RepairBox_Gun_v2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_RepairBox_Gun_v2",1,0,0,0,0,0,0,0
+
+new treasuretable "FOR_Spiders_SpiderQueen"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_RepairBox_Gun_v2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_RepairBox_Gun_v2",1,0,0,0,0,0,0,0
+
+new treasuretable "SHA_Orthon_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_RepairBox_Gun_v3",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_RepairBox_Gun_v3",1,0,0,0,0,0,0,0
+
+new treasuretable "SCL_InterrogationTable_Hidden_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_RepairBox_Gun_v3",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_RepairBox_Gun_v3",1,0,0,0,0,0,0,0
+
+//new treasuretable "Legendary_Trident_Treasure"
+//CanMerge 1
+//new subtable "1,1"
+//object category "I_OBJ_RepairBox_Gun_v4",1,0,0,0,0,0,0,0
+//new subtable "1,1"
+//object category "I_OBJ_RepairBox_Gun_v4",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Weaponsmith_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_GS_Colt_Navy",1,0,0,0,0,0,0,0
+
+new treasuretable "HAV_HarperQuarterMaster"
+CanMerge 1
+new subtable "1,1"
+object category "I_GS_Colt_Navy",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_RepairBox_Gun_v2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_RepairBox_Gun_v2",1,0,0,0,0,0,0,0
+
+new treasuretable "CRE_GithQuartermistress_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_GS_Colt_Navy",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_RepairBox_Gun_v2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_RepairBox_Gun_v2",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Entrance_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_GS_Colt_Navy",1,0,0,0,0,0,0,0
+
+new treasuretable "MOO_BugBearvendor_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_GS_Colt_Navy",1,0,0,0,0,0,0,0
+
+new treasuretable "HAV_Weaponsmith_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_GS_Colt_Navy",1,0,0,0,0,0,0,0

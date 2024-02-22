@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h6b6ed42fgffacg469dg92bcgec5e39e6b3e9" version="1">Oath of the Gunslinger Tenets</content>
+	<content contentuid="h5b4b0223gedefg4d4fg90f4gdac7b5a524ab" version="1">The tenets of the Oath of the Gunslinger guides you on your way to greatness. Conduct thyself with serious purpose. Sharpen thy eye. Discipline thy mind. Listen to thy heart.</content>
+	<content contentuid="h1eef2609gbf52g4051g8b17gfc354e7dc6bf" version="1">Aim With My Eye</content>
+	<content contentuid="hee30a52bg9e20g4ed7gab51gf6497f242738" version="1">A precise shot that causes weapon damage and slows your target.</content>
+	<content contentuid="h428a636dg77eag4405g85feg110894e93126" version="1">Shoot With My Mind</content>
+	<content contentuid="h8b66092dgb4dbg41d9gb7b4gdb331ac3d764" version="1">Your knowledge allows you to strike with surgical accuracy to target a vital artery which causes weapon damage and bleeds your target.</content>
+	<content contentuid="h5339a79eg2c70g48deg8af1g740d5b12a401" version="1">Kill With My Heart</content>
+	<content contentuid="he99f2f55g350eg4c1dg8d9cg8ecdf44e7dbd" version="1">Heavily damage your target. If the target is both bleeding and slowed you do extra damage and knock your target prone.</content>
+	<content contentuid="hfbda6582g052ag4eb9g8781g452b7a906cc7" version="1">Gunslinger Focus</content>
+	<content contentuid="h42c973b9gd603g49a6ga6c2gaacabbb5cc88" version="1">You take a moment to center yourself. You have +1 to attack and damage rolls, and have advantage on all attacks for 2 turns.</content>
+	<content contentuid="hdec95630g4d59g425ag906dg4fed1ea4484e" version="1">Inspiring Palaver</content>
+	<content contentuid="h6ee38de2g7d5eg410fg8915g5a80061a3c0a" version="1">You inspire with your words, giving yourself and your Ka-Tet advantage for the next 2 turns.</content>
+	<content contentuid="hddc74348g534ag4604g8a1dg27426ba2d7f4" version="1">Aura of the Gunslinger</content>
+	<content contentuid="ha584bfc5g1c1eg4d4fgbd4fg18bee32b72df" version="1">You radiate an aura the inspires your Ka-Tet. Enemies have Disadvantage on Opportunity Attacks against you and your Ka-Tet, and the number needed to roll a Critical Hit is reduced by 1.</content>
+	<content contentuid="ha58a60d0ged08g4e65g9c67g226068ba91cd" version="1">Oath of the Gunslinger</content>
+	<content contentuid="hc1fc2294g9bb6g4c63g97f3g181acb310614" version="1">Those who take the Oath of the Gunslinger are inspired by Arthur Eld, the progenitor of all Gunslingers. You believe that you and your companions (your Ka-Tet) are destined to achieve greatness.&lt;br&gt;&lt;br&gt;The Gunslinger Litany&lt;br&gt;I do not aim with my hand.&lt;br&gt;He who aims with his hand has forgotten the face of his father.&lt;br&gt;I aim with my eye.&lt;br&gt;I do not shoot with my hand.&lt;br&gt;He who shoots with his hand has forgotten the face of his father.&lt;br&gt;I shoot with my mind.&lt;br&gt;I do not kill with my gun.&lt;br&gt;He who kills with his gun has forgotten the face of his father.&lt;br&gt;I kill with my heart.</content>
+	<content contentuid="h04458b8dg4508g4c49ga667g450e382cc43d" version="1">Gunslinger Smite: Ranged</content>
+	<content contentuid="hcf5827fcg96d9g409fg84f5ge208ba363fb9" version="1">Gunslinger Smite Critical: Ranged</content>
+	<content contentuid="h0722bf5eg7b4eg4908g82cega9119178c16d" version="1">Your weapon deals an additional [1], increased by [2] when attacking fiends or undead.</content>
+	<content contentuid="h8e833e26g3248g4b03gae2cg7512460a71fd" version="1">The Reload Trick</content>
+	<content contentuid="h52b306c2g4c1dg457cg9fffg07a313f554cb" version="1">Decrease reload times.</content>
+	<content contentuid="hc6e746d8ge232g44bbga5bdg25e5827caa43" version="1">Gunslinging</content>
+	<content contentuid="h76f6ce90g1c50g47bcg94aeg58088544d88c" version="1">Gunslinger Smite: Reaction</content>
+	<content contentuid="hf7bb24f8g80d6g4a2bg958egd78daf7aeb8b" version="1">Gunslinger Smite Critical: Reaction</content>
+	<content contentuid="hd06e672dg93edg42b4g83f5gf0a84008f274" version="1">Deals an additional [1] per level.</content>
+	<content contentuid="hecacaad5g180bg47afgaa72gf2d64e4fe168" version="1">Dual Wield Ranged Attack</content>
+	<content contentuid="h56eef872g0bcag4236g9595g9191910abdba" version="1">Gunslinger Protection</content>
+	<content contentuid="he027d168f8cf4ef5b7d46269fee0014577ed" version="1">Gunslinger Countershot</content>
+	<content contentuid="hbd0e6d32bd3b481dacc3da8d644bf5d78694" version="1">Counters the spell being cast and deafens the target for 2 turns.</content>
+	<content contentuid="h6051fbddg4d6bg44f9g852eg765b7b345861" version="1">Ranged shot that targets enemies who harm your Ka-Tet. Dazes your target on hit.</content>
+	<content contentuid="h86fc7417gba24g43e9gac8eg8c8ec44c3f83" version="1">Gunslinger Attack of Opportunity</content>
+	<content contentuid="h8783b69cge6fag434dgb326gbdbe95238b03" version="1">You should never try to flee from a Gunslinger</content>
+	<content contentuid="hee7a5e51gd4d5g4448g9081g37119fe6dcbd" version="1">Fan the Hammer Mainhand</content>
+	<content contentuid="hf672c3daga422g486bg9719gbfb29673e00e" version="1">Rapidly fire off 1-6 shots.</content>
+	<content contentuid="hd5031d9dg2422g42f4g9c88g344ce79c8556" version="1">Fan the Hammer Offhand</content>
+	<content contentuid="h8890e3b0g4aa1g4ba9g8701g20a25dd6c82a" version="1">Rapidly fire off 1-6 shots.</content>
+	<content contentuid="h521dc077g1ad7g4f2ag8ca1gb571bc3a96e6" version="1">Bullet to the Knee</content>
+	<content contentuid="h65539074gd821g40f9gaeaag0f69c7610ad5" version="1">The target's movement is slowed.</content>
+	<content contentuid="hb74bec0eg184fg46c4g844eg9da9d12cd629" version="1">Main-Hand Firearm Attack</content>
+	<content contentuid="he0396c0dgf591g49dagbf53gcdfb4c077cb6" version="1">Off-Hand Firearm Attack</content>
+	<content contentuid="h2fbaf9bfg9946g4710g9bb3g9225fd6a2dd0" version="1">Main-Hand Firearm Attack</content>
+	<content contentuid="h122959d7g921bg4a66gbdfdg316e37189afb" version="1">Off-Hand Firearm Attack</content>
+	<content contentuid="h79b602f1g0057g482ega597g3872fe21ed1a" version="1">Dual Wield Ranged Attack</content>
+	<content contentuid="h8c0c1fefg8c2fg443cg8bc3gb07926d661b1" version="1">Basic Firearm Maintenance Kit</content>
+	<content contentuid="ha6bfa880gfd81g446aga185g397c76cdd255" version="1">Contains a basic quality set of tools that includes a cleaning rod, brushes, a cleaning swab, oils, and rags to keep your firearm in working order.</content>
+	<content contentuid="ha402d69a04d846808c4550690e02dd8e154d" version="1">Advanced Firearm Maintenance Kit</content>
+	<content contentuid="h66f6326cg7871g4a2dg8ac2g9f4fa46f1e81" version="1">Contains a high quality set of tools that includes a cleaning rod, jags, patches, brushes, chemicals, a cleaning swab, oils, and rags to keep your firearm in excellent working order.</content>
+	<content contentuid="hd626ea3cga23fg4440ga97ag783fb1149cfd" version="1">Novice Gunslinger Revolver</content>
+	<content contentuid="h59664035g6932g441fg81f7g94b4f6f80239" version="1">A used weapon that hasn't been maintained well. This is a novice Gunslingers revolver.&lt;br&gt;You should look around for some maintenance tools.</content>
+	<content contentuid="hd81a1e28g574cg42b5gabd0gd85f3bb2984f" version="1">Advanced Gunslinger Revolver</content>
+	<content contentuid="h60b9cbcfgf43ag441ag8169g2e0341f0b796" version="1">A clean and well maintained weapon.&lt;br&gt;You should look around for better quality maintenance tools.</content>
+	<content contentuid="h719b8c30ga38bg4a69gb3eagf43aa9819257" version="1">Experienced Gunslinger Revolver</content>
+	<content contentuid="he2775c69g494bg48dega642g39e3112ead9c" version="1">An immaculately maintained weapon.&lt;br&gt;You wonder if there are any better guns to be found.</content>
+	<content contentuid="hbbb994205368406cae9d3563cb7e761234dd" version="1">Expert Gunslinger Revolver</content>
+	<content contentuid="hf9234eeea6db46bcad54f8ef56d7e54bbg58" version="1">In the hands of an expert Gunslinger, this weapon is almost perfect.&lt;br&gt;You just need maintenance tools befitting this weapon to make it perfect.</content>
+    <content contentuid="hcb2a35cbe60446328f1ea2ac69b38f088f8b" version="1">Armament of Eld</content>
+    <content contentuid="hd2cfc9c27a8b40d9ae50a9e8d1d82f5e9g64" version="1">This is the weapon of a master Gunslinger. Only its twin is its equal.</content>
+    <content contentuid="hbe77f7719bc044c3bd4f1e394a601c469512" version="1">Deafened</content>
+	<content contentuid="hba31d85d71df40359b39fa17da7709fa4435" version="1">The target is deafened, stopping spellcasting that requires verbal components.</content>
+</contentList>
