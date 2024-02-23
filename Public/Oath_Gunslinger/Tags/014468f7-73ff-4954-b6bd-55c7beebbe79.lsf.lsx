@@ -4,11 +4,11 @@
 	<region id="Tags">
 		<node id="Tags">
 			<attribute id="Description" type="LSString" value="Firearm" />
-			<attribute id="DisplayDescription" type="TranslatedString" handle="heeeefee8g980fg4327ga0e9g46dd7368310e" version="1" />
-			<attribute id="DisplayName" type="TranslatedString" handle="heeeeeee8g980fg4327ga0e9g46dd7368310e" version="1" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="h92837cf3c78d4226845c29d5e6b38905c5b4" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="h31e73447166148419de457c6e1b272be3180" version="1" />
 			<attribute id="Icon" type="FixedString" value="" />
-			<attribute id="Name" type="FixedString" value="FIREARM_MOD" />
-			<attribute id="UUID" type="guid" value="eee3ae27-dc6c-4fc9-4592-0c710c796c39" />
+			<attribute id="Name" type="FixedString" value="GS_FIREARM_MOD" />
+			<attribute id="UUID" type="guid" value="014468f7-73ff-4954-b6bd-55c7beebbe79" />
 			<children>
 				<node id="Categories">
 					<children>

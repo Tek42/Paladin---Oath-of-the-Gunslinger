@@ -1,3 +1,29 @@
+//OGAmmo Passives
+
+new entry "OG_Ammo_Passive"
+type "PassiveData"
+data "DescriptionParams" ""
+data "Boosts" "ActionResource(OGAmmo,1,0)"
+data "Properties" "IsHidden"
+
+new entry "OG_Ammo_Offhand_Passive"
+type "PassiveData"
+data "DescriptionParams" ""
+data "Boosts" "ActionResource(OGAmmoOffhand,1,0)"
+data "Properties" "IsHidden"
+
+new entry "OG_Ammo_SixShot_Passive"
+type "PassiveData"
+data "DescriptionParams" ""
+data "Boosts" "ActionResource(OGAmmo,6,0)"
+data "Properties" "IsHidden"
+
+new entry "OG_Ammo_SixShot_Offhand_Passive"
+type "PassiveData"
+data "DescriptionParams" ""
+data "Boosts" "ActionResource(OGAmmoOffhand,6,0)"
+data "Properties" "IsHidden"
+
 new entry "Oath_Gunslinger_Tenets"
 	type "PassiveData"
 		data "DisplayName" "h6b6ed42fgffacg469dg92bcgec5e39e6b3e9;1"

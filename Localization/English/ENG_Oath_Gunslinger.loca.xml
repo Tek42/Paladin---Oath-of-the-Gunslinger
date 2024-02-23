@@ -1,5 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentList>
+	<content contentuid="h5c09a7b8590e4b77be13e70cbddc37708b55" version="1">Off-hand Ammo</content>
+	<content contentuid="h4746588c88f243c9a3bd007ed9c7ab4b2b41" version="1">Main-hand Ammo</content>
+	<content contentuid="hd876369f6b054d339947d48af02a03472a36" version="1">Number of Shots remaining before you need to reload your main firearm.</content>
+	<content contentuid="h167f89f3814e44ee9d1d3dc12e9f4a80364c" version="1">Number of Shots remaining before you need to reload your off-hand firearm.</content>
 	<content contentuid="h6b6ed42fgffacg469dg92bcgec5e39e6b3e9" version="1">Oath of the Gunslinger Tenets</content>
 	<content contentuid="h5b4b0223gedefg4d4fg90f4gdac7b5a524ab" version="1">The tenets of the Oath of the Gunslinger guides you on your way to greatness. Conduct thyself with serious purpose. Sharpen thy eye. Discipline thy mind. Listen to thy heart.</content>
 	<content contentuid="h1eef2609gbf52g4051g8b17gfc354e7dc6bf" version="1">Aim With My Eye</content>
