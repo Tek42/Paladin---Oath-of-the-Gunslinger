@@ -85,8 +85,9 @@ new entry "INSPIRING_PALAVER"
 		data "DisplayName" "hdec95630g4d59g425ag906dg4fed1ea4484e;1"
 		data "Description" "h6ee38de2g7d5eg410fg8915g5a80061a3c0a;1"
 		data "Icon" "Inspiring_Palaver"
+		data "AuraRadius" "9"
 		data "StackId" "INSPIRING_PALAVER_ACTION"
-		data "Boosts" "SourceAdvantageOnAttack()"
+		data "Boosts" "Advantage(AttackRoll)"
 		data "StatusGroups" "SG_RemoveOnRespec"
 
 // Shot Statuses
