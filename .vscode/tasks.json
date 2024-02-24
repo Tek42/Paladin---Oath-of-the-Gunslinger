@@ -1,0 +1,84 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "ConvertModFiles",
+            "type": "shell",
+            "command": "",
+            "dependsOn": [
+                "ModLoca",
+                "ModLSX",
+                "CheckStats"
+            ],
+            "presentation": {
+                "reveal": "silent"
+            },
+            "problemMatcher": []
+        },
+        {
+            
+                "label": "ModLoca",
+                "type": "shell",
+                "command": "python 'E:\\BG3_Tools\\BG3_MM\\LSLIB\\convert_loca.py'",
+                "args": [
+                    "-f",
+                    "E:\\BG3_Tools\\BG3_MM\\UnpackedMods\\Paladin - Oath of the Gunslinger\\Localization\\English\\ENG_Oath_Gunslinger.loca.xml",
+                    "-o",
+                    "E:\\BG3_Tools\\BG3_MM\\UnpackedMods\\Paladin - Oath of the Gunslinger\\Localization\\English\\ENG_Oath_Gunslinger.loca"
+                ],
+                "group": "build",
+                "presentation": {
+                    "reveal": "silent"
+                },
+                "problemMatcher": []
+            
+        },
+        {
+            "label": "EMLSX",
+            "type": "shell",
+            "command": "python",
+            "options": {
+                "cwd": "E:\\BG3_Tools\\BG3_MM\\LSLIB"
+            },
+            "args": [
+                "E:\\BG3_Tools\\BG3_MM\\LSLIB\\convert_lsf.py",
+                "-f",
+                "E:\\BG3_Tools\\BG3_MM\\UnpackedMods\\Paladin - Oath of the Gunslinger",
+                "-b",
+                "--ext",
+                ".lsx",
+                "--outputext",
+                ".lsf"
+            ],
+            "group": "build",
+            "presentation": {
+                "reveal": "silent"
+            },
+            "problemMatcher": []
+        },
+        
+        {
+            "label": "CheckStats",
+            "type": "process",
+            "command": "E:\\BG3_Tools\\BG3_MM\\LSLIB\\StatParser.exe",
+            "args": [
+                "--game-data-path",
+                "C:\\YourGameLocation\\Baldurs Gate 3\\Data",
+                "--package-paths",
+                "C:\\Users\\Michael\\AppData\\Local\\Larian Studios\\Baldur's Gate 3\\Mods",
+                "--dependency",
+                "Shared",
+                "--dependency",
+                "SharedDev",
+                "--dependency",
+                "Gustav",
+                "--dependency",
+                "GustavDev",
+                "--mod",
+                "Paladin - Oath of the Gunslinger"
+            ]
+        }
+    ]
+}
