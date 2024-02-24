@@ -12,7 +12,7 @@
                     <attribute id="DiceType" type="uint32" value="0" /> 
                     <attribute id="Name" type="FixedString" value="OGAmmo" />
                     <attribute id="PartyActionResource" type="bool" value="false" />
-                    <attribute id="ReplenishType" type="FixedString" value="Combat" />
+                    <attribute id="ReplenishType" type="FixedString" value="ShortRest" />
                     <attribute id="ShowOnActionResourcePanel" type="bool" value="true" />
                     <attribute id="UUID" type="guid" value="c50f0982-575d-477b-9da0-1c77855fe5fd" />
                     <attribute id="UpdatesSpellPowerLevel" type="bool" value="false" />
@@ -25,7 +25,7 @@
                     <attribute id="DiceType" type="uint32" value="0" /> 
                     <attribute id="Name" type="FixedString" value="OGAmmoOffhand" />
                     <attribute id="PartyActionResource" type="bool" value="false" />
-                    <attribute id="ReplenishType" type="FixedString" value="Combat" />
+                    <attribute id="ReplenishType" type="FixedString" value="ShortRest" />
                     <attribute id="ShowOnActionResourcePanel" type="bool" value="true" />
                     <attribute id="UUID" type="guid" value="7c374d6f-e2d3-405b-8b26-f8e21e4a081d" />
                     <attribute id="UpdatesSpellPowerLevel" type="bool" value="false" />

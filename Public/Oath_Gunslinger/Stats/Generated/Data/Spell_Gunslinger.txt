@@ -326,7 +326,7 @@ new entry "Target_Deafening_Shot"
 		data "HitCosts" ""
 		data "VerbalIntent" "Damage"
 		data "SpellStyleGroup" "Class"
-		data "SpellFlags" "IsAttack;HasHighGroundRangeExtension;RangeIgnoreVerticalThreshold;IsHarmful;ImmediateCast"
+		data "SpellFlags" "IsAttack;HasHighGroundRangeExtension;RangeIgnoreVerticalThreshold;IsHarmful"
 		data "DamageType" "Force"
 		data "SpellSoundMagnitude" "Big"
 
