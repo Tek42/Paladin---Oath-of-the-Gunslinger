@@ -9,7 +9,7 @@
                     <attribute id="Name" type="LSString" value="CL_OATH_GUNSLINGER" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
                     <attribute id="Selectors" type="LSString" value="AddSpells(221ad8c3-c1d7-44fa-8b5a-977c0f1c8491,,,,AlwaysPrepared)" />
-                    <attribute id="PassivesAdded" type="LSString" value="Oath_Ka_Tenets;Gunner_PointBlank;Gunner_Proficiencies;Gunner_PassiveBonus" /> 
+                    <attribute id="PassivesAdded" type="LSString" value="Oath_Ka_Tenets;Gunslinger_PointBlank;Gunslinger_Proficiencies;Gunslinger_PassiveBonus" /> 
                     <attribute id="TableUUID" type="guid" value="ce6ee763-1a34-48be-99cc-424813c07cf9" />
                     <attribute id="UUID" type="guid" value="633d9da5-1a93-4b9e-8ce7-94db5dc3ef1b" />
                 </node>
