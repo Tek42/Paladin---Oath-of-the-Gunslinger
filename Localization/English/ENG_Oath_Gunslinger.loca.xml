@@ -63,4 +63,10 @@
     <content contentuid="hd2cfc9c27a8b40d9ae50a9e8d1d82f5e9g64" version="1">This is the weapon of a master Gunslinger. Only its twin is its equal.</content>
     <content contentuid="hbe77f7719bc044c3bd4f1e394a601c469512" version="1">Deafened</content>
 	<content contentuid="hba31d85d71df40359b39fa17da7709fa4435" version="1">The target is deafened, stopping spellcasting that requires verbal components.</content>
+    <content contentuid="h30a6a1de49ff4c5c906c6d9f31af1dc3cgec" version="1">Main Hand Reload</content>
+    <content contentuid="h64e62fee921d480b9e846796c7597dd295a1" version="1">Reloads your main hand gun.</content>
+    <content contentuid="hde695aceb6184246af70ea04caf0e90b4544" version="1">Off Hand Reload</content>
+    <content contentuid="hf5310148a3ed450387d89eee1203ffc745fg" version="1">Reloads your off-hand gun.</content>
+    <content contentuid="h9a100deebdae4f41a7c645f447d97eef195a" version="1">Full Reload</content>
+    <content contentuid="h15710e2a712a47fea5af4e7c53a63107db0a" version="1">Reloads your main and off hand guns.</content>
 </contentList>
