@@ -110,7 +110,7 @@
                     <attribute id="V2" type="float" value="0.2"/>
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value=""/>
+                    <attribute id="MapKey" type="FixedString" value="Projectile_OG_Banishing_Shot"/>
                     <attribute id="U1" type="float" value="0.5"/>
                     <attribute id="U2" type="float" value="0.6"/>
                     <attribute id="V1" type="float" value="0.1"/>

@@ -142,7 +142,7 @@ new entry "GS_BANISHED"
 		data "OnApplyFunctors" "BreakConcentration()"
 		data "StatusPropertyFlags" "OverheadOnTurn;DisableImmunityOverhead;ApplyToDead"
 
-new entry "BANISH_USED"
+new entry "GS_BANISH_USED"
 	type "StatusData"
 		data "StatusType" "BOOST"
 		data "StackId" "BANISH_USED"
