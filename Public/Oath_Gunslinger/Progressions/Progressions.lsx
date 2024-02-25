@@ -18,7 +18,7 @@
                     <attribute id="Name" type="LSString" value="CL_OATH_GUNSLINGER" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
                     <attribute id="PassivesAdded" type="LSString" value="FightingStyle_Gunslinging" />
-                    <attribute id="PassivesRemoved" type="LSString" value="FightingStyle_Defense;FightingStyle_Dueling;FightingStyle_GreatWeaponFighting;FightingStyle_Protection;Proficiency(HeavyArmor)" />
+                    <attribute id="PassivesRemoved" type="LSString" value="Smite_Divine;FightingStyle_Defense;FightingStyle_Dueling;FightingStyle_GreatWeaponFighting;FightingStyle_Protection;Proficiency(HeavyArmor)" />
                     <attribute id="Selectors" type="LSString" value="AddSpells(02636dd5-4a67-4ba1-b944-844091f75242,,,,AlwaysPrepared)" />
                     <attribute id="TableUUID" type="guid" value="ce6ee763-1a34-48be-99cc-424813c07cf9" />
                     <attribute id="UUID" type="guid" value="602d6922-4da0-4333-b71f-b255f205114e" />
@@ -54,6 +54,7 @@
                     <attribute id="Level" type="uint8" value="6" />
                     <attribute id="Name" type="LSString" value="CL_OATH_GUNSLINGER" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(ChannelOath,1,0)" />
                     <attribute id="Selectors" type="LSString" value="" />
                     <attribute id="TableUUID" type="guid" value="ce6ee763-1a34-48be-99cc-424813c07cf9" />
                     <attribute id="UUID" type="guid" value="0f52b6a9-6d9f-4e1b-8654-e5162bd58fc9" />
@@ -70,7 +71,7 @@
                     <attribute id="Level" type="uint8" value="8" />
                     <attribute id="Name" type="LSString" value="CL_OATH_GUNSLINGER" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
-                    <attribute id="Boosts" type="LSString" value="ActionResource(ChannelOath,1,0)" />                    
+                    <attribute id="Boosts" type="LSString" value="ActionResource(ChannelOath,1,0)" />
                     <attribute id="Selectors" type="LSString" value="" />
                     <attribute id="TableUUID" type="guid" value="ce6ee763-1a34-48be-99cc-424813c07cf9" />
                     <attribute id="UUID" type="guid" value="e6eeb8e6-5d79-42ef-af0d-c13e6195d812" />
@@ -87,6 +88,7 @@
                     <attribute id="Level" type="uint8" value="10" />
                     <attribute id="Name" type="LSString" value="CL_OATH_GUNSLINGER" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(ChannelOath,1,0)" />
                     <attribute id="Selectors" type="LSString" value="" />
                     <attribute id="TableUUID" type="guid" value="ce6ee763-1a34-48be-99cc-424813c07cf9" />
                     <attribute id="UUID" type="guid" value="cf3c4aec-49b4-46a0-95a5-79e65fd9a296" />
@@ -95,6 +97,8 @@
                     <attribute id="Level" type="uint8" value="11" />
                     <attribute id="Name" type="LSString" value="CL_OATH_GUNSLINGER" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
+                    <attribute id="PassivesAdded" type="LSString" value="Improved_Gunslinger_Smite" />
+                    <attribute id="PassivesRemoved" type="LSString" value="ImprovedDivineSmite" />
                     <attribute id="Selectors" type="LSString" value="" />
                     <attribute id="TableUUID" type="guid" value="ce6ee763-1a34-48be-99cc-424813c07cf9" />
                     <attribute id="UUID" type="guid" value="9cd374ed-5574-41be-aed4-4d74a55527cd" />

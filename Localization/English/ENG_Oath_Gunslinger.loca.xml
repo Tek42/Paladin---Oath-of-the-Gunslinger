@@ -33,14 +33,14 @@
 	<content contentuid="h56eef872g0bcag4236g9595g9191910abdba" version="1">Gunslinger Protection</content>
 	<content contentuid="he027d168f8cf4ef5b7d46269fee0014577ed" version="1">Gunslinger Countershot</content>
 	<content contentuid="hbd0e6d32bd3b481dacc3da8d644bf5d78694" version="1">Counters the spell being cast and deafens the target for 2 turns.</content>
-	<content contentuid="h6051fbddg4d6bg44f9g852eg765b7b345861" version="1">Ranged shot that targets enemies who harm your Ka-Tet. Dazes your target on hit.</content>
+	<content contentuid="h6051fbddg4d6bg44f9g852eg765b7b345861" version="1">Ranged shot that targets enemies who harm your Ka-Tet.</content>
 	<content contentuid="h86fc7417gba24g43e9gac8eg8c8ec44c3f83" version="1">Gunslinger Attack of Opportunity</content>
 	<content contentuid="h8783b69cge6fag434dgb326gbdbe95238b03" version="1">You should never try to flee from a Gunslinger</content>
 	<content contentuid="hee7a5e51gd4d5g4448g9081g37119fe6dcbd" version="1">Fan the Hammer Mainhand</content>
 	<content contentuid="hf672c3daga422g486bg9719gbfb29673e00e" version="1">Rapidly fire off 1-6 shots.</content>
 	<content contentuid="hd5031d9dg2422g42f4g9c88g344ce79c8556" version="1">Fan the Hammer Offhand</content>
 	<content contentuid="h8890e3b0g4aa1g4ba9g8701g20a25dd6c82a" version="1">Rapidly fire off 1-6 shots.</content>
-	<content contentuid="h521dc077g1ad7g4f2ag8ca1gb571bc3a96e6" version="1">Bullet to the Knee</content>
+	<content contentuid="h521dc077g1ad7g4f2ag8ca1gb571bc3a96e6" version="1">Bullet to the Thigh</content>
 	<content contentuid="h65539074gd821g40f9gaeaag0f69c7610ad5" version="1">The target's movement is slowed.</content>
 	<content contentuid="hb74bec0eg184fg46c4g844eg9da9d12cd629" version="1">Main-Hand Firearm Attack</content>
 	<content contentuid="he0396c0dgf591g49dagbf53gcdfb4c077cb6" version="1">Off-Hand Firearm Attack</content>
@@ -56,11 +56,11 @@
 	<content contentuid="hd81a1e28g574cg42b5gabd0gd85f3bb2984f" version="1">Advanced Gunslinger Revolver</content>
 	<content contentuid="h60b9cbcfgf43ag441ag8169g2e0341f0b796" version="1">A clean and well maintained weapon.&lt;br&gt;You should look around for better quality maintenance tools.</content>
 	<content contentuid="h719b8c30ga38bg4a69gb3eagf43aa9819257" version="1">Experienced Gunslinger Revolver</content>
-	<content contentuid="he2775c69g494bg48dega642g39e3112ead9c" version="1">An immaculately maintained weapon.&lt;br&gt;You wonder if there are any better guns to be found.</content>
+	<content contentuid="he2775c69g494bg48dega642g39e3112ead9c" version="1">An immaculately maintained weapon.&lt;br&gt;With some specialized tools you could probably remake this gun into something special.</content>
 	<content contentuid="h657d4a00544b482aacada2f38d26d444b83b" version="1">Expert Gunslinger Revolver</content>
-	<content contentuid="h429a6be98335474cb7ccc23dd6bd7323089c" version="1">In the hands of an expert Gunslinger, this weapon is almost perfect.&lt;br&gt;You just need maintenance tools befitting this weapon to make it perfect.</content>
+	<content contentuid="h429a6be98335474cb7ccc23dd6bd7323089c" version="1">In the hands of an expert Gunslinger, this weapon is nearly perfect.&lt;br&gt;You wonder if there are any better guns to be found.</content>
     <content contentuid="h22dbf160563d41ac908e3351f6bdcd25d6e7" version="1">Armament of Eld</content>
-    <content contentuid="h06d21706f0bb4f5693c9d73bc24eca3e856f" version="1">This is the weapon of a master Gunslinger. Only its twin is its equal.</content>
+    <content contentuid="h06d21706f0bb4f5693c9d73bc24eca3e856f" version="1">This is the weapon of a master Gunslinger.</content>
     <content contentuid="hbe77f7719bc044c3bd4f1e394a601c469512" version="1">Deafened</content>
 	<content contentuid="hba31d85d71df40359b39fa17da7709fa4435" version="1">The target is deafened, stopping spellcasting that requires verbal components.</content>
     <content contentuid="h30a6a1de49ff4c5c906c6d9f31af1dc3cgec" version="1">Main Hand Reload</content>
@@ -74,4 +74,13 @@
     <content contentuid="h63b2c153b6bc4e78a428f9568b930bca9b42" version="1">Banishing Shot</content>
     <content contentuid="hcbf002c7519342819bab37d7393f9a77928e" version="1">Weapon damage and the target will be banished for 2 turns.</content>
     <content contentuid="h95536af43b204f4b8e3b2849a8cf053c9893" version="1">The target is banished for 2 turns.</content>
+    <content contentuid="hcac39e2b23ad458e9f0ad76182e9f9cfg214" version="1">Improved Gunslinger Smite</content>
+    <content contentuid="h9cf3f4afa32649dfb65c79f6f95b66237073" version="1">Your attacks are infused with extra force.&lt;br&gt;&lt;br&gt;Ranged weapon attacks deal an additional [1].</content>
+    <content contentuid="h9c275d8fc2d543fbbc24cc562e8cc292399a" version="1">Gunslinger: Point-Blank</content>
+	<content contentuid="hdd9b611882154f0ebabcee061e5d7efa6b62" version="1">When you make ranged weapon attacks within melee range, the &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; do not have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
+	<content contentuid="hdd9b611882154f0ebabcee061e5d7efa6b62" version="1">When you make ranged weapon attacks within melee range, the &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; do not have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
+    <content contentuid="h412fb35c01f6465183f83993db61d5837ba4" version="1">Gunslinger: Evasion</content>
+	<content contentuid="h7cb441fea04f405c8dd9f02468e83e24b1fg" version="1">You can evade attacks by imposing &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on melee attacks against you for a round. You also gain +1 to Dexterity.</content>
+    <content contentuid="he6c59ef1952c45bebcbce1c6c0fb165836ee" version="1">Gunslinger's Resolve</content>
+    <content contentuid="h94dbae90f864477292d7d0adedafff67a694" version="1">On Damage Rolls, roll twice and use the higher result.</content>
 </contentList>
