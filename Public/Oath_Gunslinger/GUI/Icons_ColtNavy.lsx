@@ -14,7 +14,7 @@
                 </node>
                 <node id="TextureAtlasTextureSize">
                     <attribute id="Height" type="int32" value="64"/>
-                    <attribute id="Width" type="int32" value="128"/>
+                    <attribute id="Width" type="int32" value="192"/>
                 </node>
             </children>
         </node>
@@ -25,15 +25,22 @@
                 <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="Colt_Navy"/> 1
                     <attribute id="U1" type="float" value="0"/>
-                    <attribute id="U2" type="float" value=".5"/>
+                    <attribute id="U2" type="float" value="1"/>
                     <attribute id="V1" type="float" value="0.0"/>
-                    <attribute id="V2" type="float" value="1"/> 
+                    <attribute id="V2" type="float" value=".33"/> 
                 </node>			
                 <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="Colt_Navy_Clean"/> 2
-                    <attribute id="U1" type="float" value=".5"/> Left
+                    <attribute id="U1" type="float" value="0"/> Left
                     <attribute id="U2" type="float" value="1"/> Right
-                    <attribute id="V1" type="float" value="0"/> Top
+                    <attribute id="V1" type="float" value=".33"/> Top
+                    <attribute id="V2" type="float" value=".66"/> Bottom
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Colt_Army"/> 3
+                    <attribute id="U1" type="float" value="0"/> Left
+                    <attribute id="U2" type="float" value="1"/> Right
+                    <attribute id="V1" type="float" value=".66"/> Top
                     <attribute id="V2" type="float" value="1"/> Bottom
                 </node>								
             </children>

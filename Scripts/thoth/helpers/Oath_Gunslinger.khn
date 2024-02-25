@@ -1,5 +1,5 @@
 local __util = require 'larian.util'
 
 function IsGSSmite()
-    return SpellId('Target_Smite_Divine') | SpellId('Target_Smite_Divine_2') | SpellId('Target_Smite_Divine_3') | SpellId('Target_Smite_Divine_4') | SpellId('Target_Smite_Divine_5') | SpellId('Target_Smite_Divine_6') | SpellId('GS_FTH_MH') | SpellId('GS_FTH_OH')
+    return SpellId('Target_Smite_Divine') | SpellId('Target_Smite_Divine_2') | SpellId('Target_Smite_Divine_3') | SpellId('Target_Smite_Divine_4') | SpellId('Target_Smite_Divine_5') | SpellId('Target_Smite_Divine_6') | SpellId('GS_FTH_MH') | SpellId('GS_FTH_OH') | SpellId('Projectile_OG_Banishing_Shot')
 end

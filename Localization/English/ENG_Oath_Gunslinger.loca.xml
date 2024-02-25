@@ -57,10 +57,10 @@
 	<content contentuid="h60b9cbcfgf43ag441ag8169g2e0341f0b796" version="1">A clean and well maintained weapon.&lt;br&gt;You should look around for better quality maintenance tools.</content>
 	<content contentuid="h719b8c30ga38bg4a69gb3eagf43aa9819257" version="1">Experienced Gunslinger Revolver</content>
 	<content contentuid="he2775c69g494bg48dega642g39e3112ead9c" version="1">An immaculately maintained weapon.&lt;br&gt;You wonder if there are any better guns to be found.</content>
-	<content contentuid="hbbb994205368406cae9d3563cb7e761234dd" version="1">Expert Gunslinger Revolver</content>
-	<content contentuid="hf9234eeea6db46bcad54f8ef56d7e54bbg58" version="1">In the hands of an expert Gunslinger, this weapon is almost perfect.&lt;br&gt;You just need maintenance tools befitting this weapon to make it perfect.</content>
-    <content contentuid="hcb2a35cbe60446328f1ea2ac69b38f088f8b" version="1">Armament of Eld</content>
-    <content contentuid="hd2cfc9c27a8b40d9ae50a9e8d1d82f5e9g64" version="1">This is the weapon of a master Gunslinger. Only its twin is its equal.</content>
+	<content contentuid="h657d4a00544b482aacada2f38d26d444b83b" version="1">Expert Gunslinger Revolver</content>
+	<content contentuid="h429a6be98335474cb7ccc23dd6bd7323089c" version="1">In the hands of an expert Gunslinger, this weapon is almost perfect.&lt;br&gt;You just need maintenance tools befitting this weapon to make it perfect.</content>
+    <content contentuid="h22dbf160563d41ac908e3351f6bdcd25d6e7" version="1">Armament of Eld</content>
+    <content contentuid="h06d21706f0bb4f5693c9d73bc24eca3e856f" version="1">This is the weapon of a master Gunslinger. Only its twin is its equal.</content>
     <content contentuid="hbe77f7719bc044c3bd4f1e394a601c469512" version="1">Deafened</content>
 	<content contentuid="hba31d85d71df40359b39fa17da7709fa4435" version="1">The target is deafened, stopping spellcasting that requires verbal components.</content>
     <content contentuid="h30a6a1de49ff4c5c906c6d9f31af1dc3cgec" version="1">Main Hand Reload</content>
@@ -69,4 +69,8 @@
     <content contentuid="hf5310148a3ed450387d89eee1203ffc745fg" version="1">Reloads your off-hand gun.</content>
     <content contentuid="h9a100deebdae4f41a7c645f447d97eef195a" version="1">Full Reload</content>
     <content contentuid="h15710e2a712a47fea5af4e7c53a63107db0a" version="1">Reloads your main and off hand guns.</content>
+    <content contentuid="h7da7b7263a3e4a0787910df48d1eb2e10664" version="1">Firearm Mini Forge</content>
+    <content contentuid="h23ffe6d7a93b45b8a79ac1f6391bf6184847" version="1">A small forge with tools that will enable you to break down your existing gun to create something new.</content>
+    <content contentuid="h63b2c153b6bc4e78a428f9568b930bca9b42" version="1">Banishing Shot</content>
+    <content contentuid="hcbf002c7519342819bab37d7393f9a77928e" version="1">Weapon damage and the target will be banished for 2 turns.</content>
 </contentList>
