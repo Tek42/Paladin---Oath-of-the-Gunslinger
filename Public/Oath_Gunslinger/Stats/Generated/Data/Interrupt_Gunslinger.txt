@@ -71,7 +71,7 @@ new entry "Interrupt_Smite_Gunslinger_Ranged_Critical_2"
 		data "Properties" "IF(not UndeadOrFiend(context.Target)):DealDamage(3d8,Force,Magical);IF(UndeadOrFiend(context.Target)):DealDamage(4d8,Force,Magical);ApplyStatus(INTERRUPT_SMITE_GUNSLINGER_VFX,100,0)"
 		data "Cost" "SpellSlotsGroup:1:1:2"
 
-new entry "Interrupt_Smite_Gunslinger_Critical_3"
+new entry "Interrupt_Smite_Gunslinger_Ranged_Critical_3"
 	type "InterruptData"
 	using "Interrupt_Smite_Gunslinger_Ranged_Critical"
 		data "DescriptionParams" "DealDamage(4d8,Force);"
